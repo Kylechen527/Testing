@@ -1,5 +1,20 @@
-.square{
+.one{
+	background-color: black;
+	height: 400px;
+	width: 200px;
+	float: left;
+}
+
+.two{
 	background-color: yellow;
-	height: 60px;
-	width: 60px;
+	height: 400px;
+	width: 200px;
+	float: left;
+}
+
+.three{
+	background-color: red;
+	height: 400px;
+	width: 200px;
+	float: left;
 }
